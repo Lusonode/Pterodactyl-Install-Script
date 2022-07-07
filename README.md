@@ -1,4 +1,5 @@
 # Pterodactyl-Script
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Lusonode&label=Profile%20views&color=F70000&style=iron" alt="Lusonode" /> </p>
 Instaling Pterodactyl Panel in only a few minutes! <br />
 Note that this script should only be used on new installations. You must run it as root. <br />
 <br />
